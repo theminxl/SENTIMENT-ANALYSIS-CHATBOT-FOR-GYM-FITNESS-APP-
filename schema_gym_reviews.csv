@@ -1,0 +1,20 @@
+column,dtype,sample
+source,str,Sulekha
+city,str,Chennai
+gym_name,str,Snap Fitness
+address,str,"174, Anna Nagar"
+category,str,Yoga Studio
+phone,str,+91 9536146025
+gym_rating,float64,3.6
+total_reviews,int64,66
+reviewer_name,str,Priya M.
+review_rating,float64,3.8
+review_text,str,Highly recommended. Well-maintained gym with good ventilation and space. Been a member for 6 months.
+review_date,str,2025-09-26
+upvotes,float64,nan
+place_id,str,
+permalink,str,
+review_length,int64,100
+has_review,int64,1
+sentiment_label,str,Positive
+scrape_date,str,2026-05-07
